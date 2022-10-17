@@ -1,0 +1,20 @@
+.Box2__left,
+.Box2__right {
+    flex: auto;
+    height: 50px;
+    background-color: #944dff;
+    border: 50px solid #2b1a82;
+}
+
+.Box2__right {
+    background-color: #d1a2ff;
+    border-color: #662cdb;
+    border-left: none;
+}
+
+.Box3__1,
+.Box3__2,
+.Box3__3,
+.Box3__4 {
+    flex: auto;
+}
